@@ -1,0 +1,174 @@
+.autoplay {
+    width: 1400px;
+    height: 500px;
+    gap: 30px;
+    margin-bottom:
+        /* display: flex; */
+}
+
+.conteiner {
+    width: ;
+    height: ;
+    display: flex;
+    background-color: aqua;
+    padding-top: 500px;
+    align-content: space-between;
+}
+
+
+/* ---------------Buttom-------------- */
+
+
+slick-next:before {
+    content: '→';
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-family: 'slick';
+    font-size: 40px;
+    line-height: 1;
+    opacity: .75;
+    color: rgb(58, 16, 173);
+    -webkit-font-smoothing: antialiased;
+}
+
+
+DOTS content: '•';
+/* -------------------СТРЕЛКА ПРОКРУТКА----------------- */
+
+height: 348px;
+visibility: visible;
+
+.a-carousel-left,
+.a-carousel-right {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+.a-carousel-left {
+    left: 0;
+    padding-left: 3px;
+}
+
+.a-carousel-col {
+    overflow: visible;
+    min-height: 1px;
+    position: relative;
+    zoom: 1;
+}
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+таблица стилей агента пользователя div {
+    display: block;
+}
+
+.a-ember body {
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+body {
+    color: #0F1111;
+}
+
+body {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial, sans-serif;
+}
+
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+.a-button:not(.a-button-toggle) {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px 0 rgb(213 217 217 / 50%);
+}
+
+a,
+a:link,
+a:visited {
+    text-decoration: none;
+    color: #007185;
+}
+
+.a-carousel-button {
+    position: relative;
+    top: 40%;
+    margin-top: -16px;
+}
+
+.a-button-image {
+    height: auto;
+}
+
+.a-button {
+    background: #FFF;
+    border-radius: 3px;
+    border-color: #D5D9D9;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    display: inline-block;
+    padding: 0;
+    text-align: center;
+    text-decoration: none !important;
+    vertical-align: middle;
+}
+
+* {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+таблица стилей агента пользователя a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+Атрибут style {
+    height: 348px;
+    visibility: visible;
+}
+
+.a-carousel-left,
+.a-carousel-pagination,
+.a-carousel-right {
+    visibility: hidden;
+}
+
+.a-ember body {
+    font-family: "Amazon Ember", Arial, sans-serif;
+}
+
+body {
+    color: #0F1111;
+}
+
+body {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Arial, sans-serif;
+}
+
+html {
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+
+
+.slick-next slick-arrow <button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;">Next</button>
